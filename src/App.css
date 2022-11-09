@@ -1,9 +1,15 @@
 /* Add styling for your page here */
 
 .App {
-
+    
 }
 
 .BakeryItem {
   
+}
+
+img {
+    width: 300px;
+    height: 300px;
+
 }
